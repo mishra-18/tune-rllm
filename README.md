@@ -8,5 +8,7 @@ Check out Phi3-DPO on [HuggingFace](https://huggingface.co/smishr-18/phi3-dpo/tr
 
 <p align="center">
   
-  <img src="https://github.com/user-attachments/assets/f0057179-066b-42d4-ae90-1e6235383c45" alt="Image Description" width="600"/>
+  <img src="https://github.com/user-attachments/assets/e32989d5-4b25-4acc-8191-b4ee041a9d93" alt="Image Description" width="600"/>
+
+
 </p>
