@@ -4,11 +4,8 @@ Direct Preference Optimization (DPO) follows the same reward based methods with 
 
 You can access the [Wandb Logs](https://wandb.ai/mishra4-deeplogic-ai/huggingface/reports/train-loss-24-07-22-22-08-06---Vmlldzo4NzY2NzU4?accessToken=2jdm6mkp6fuqn7z0nkf7d90swgrsk80ritosa4obig60c23dnrcco19dj1b9et53).
 
-Check out Phi3-DPO on [HuggingFace](https://huggingface.co/smishr-18/phi3-dpo/tree/main).
+Checkout Phi3-TheFinetunedOne on [HuggingFace](https://huggingface.co/smishr-18/Phi3-TheFinetunedOne).
 
 <p align="center">
-  
   <img src="https://github.com/user-attachments/assets/e32989d5-4b25-4acc-8191-b4ee041a9d93" alt="Image Description" width="600"/>
-
-
 </p>
